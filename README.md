@@ -1,6 +1,8 @@
 # Youtube Clone App
 ReactJs, Redux, Tailwind CSS ile youtube klonu projesi.
+
 Veriler için Rapid API üzerinden Youtube V3 API'sini kullandım.
+
 Axios, Moment, React Icons gibi kütüphaneleri, State Management için Redux kullandım.
 
 
